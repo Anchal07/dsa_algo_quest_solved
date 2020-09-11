@@ -1,0 +1,9 @@
+
+U
+java:S1854	"8Remove this useless assignment to local variable "text".(¸Û¥®8úª¹ÆÇ.
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(üþ®ïûÿÿÿÿ8Áä»ÇÇ.
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(üþ®ïûÿÿÿÿ8Áä»ÇÇ.
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(½º†‡8Áä»ÇÇ.
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8•ÓÉÆÇ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(³Ô²ªûÿÿÿÿ8óî³ÇÇ.
