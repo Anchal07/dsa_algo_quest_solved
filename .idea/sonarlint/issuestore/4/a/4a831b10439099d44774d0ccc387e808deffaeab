@@ -1,6 +1,5 @@
 
-d
-java:S1128"HRemove this unused import 'com.company.arrays.HamiltonianAndLagrangian'.(Íöö|8ÈşÛÆÇ.
-g
-java:S1128"JRemove this unused import 'com.company.arrays.PairsHavingSimilarElements'.(¦ÈäÚ8¶ÀêßÆ.
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
+U
+java:S1128"8Remove this unused import 'com.company.strings.KMPImpl'.(ù¬”„8òİ‡„É.

@@ -11,3 +11,13 @@ d
 4src/com/company/arrays/HamiltonianAndLagrangian.java,3/a/3ac1bb0b8dc41ed53ec6197fdd5918e25205aa72
 T
 $src/com/company/strings/KMPImpl.java,4/3/435d0a14775fc55af6a17ab77d2c2ffc03085cfa
+_
+/src/com/company/arrays/MiniAdjDiffCirArray.java,a/9/a9a369a2cfb058e6eb0b8a48a3e1c8d7573e2bc3
+Z
+*src/com/company/arrays/RotateArrayByD.java,7/5/75dbd22ef01dd36c0a7ca22a110f0ef7e7b6b7c9
+X
+(src/com/company/arrays/ReverseBlock.java,8/3/83ccc8df5ede2b1256a27d41586ecddc95b6e352
+T
+$src/com/company/arrays/Rotation.java,2/b/2baf894a73e0266538d588515dd2cfb64d2437a9
+U
+%src/com/company/arrays/WaveArray.java,5/d/5d151e994c0764dfc089c84faa369f414711191f
