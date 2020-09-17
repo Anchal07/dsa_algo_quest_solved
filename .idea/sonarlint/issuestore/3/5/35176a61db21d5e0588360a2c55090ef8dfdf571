@@ -1,0 +1,14 @@
+
+H
+java:S3958"2Refactor the code so this stream pipeline is used.(¾ËÅš
+<
+java:S1659"Declare "k" on a separate line.(Øı¼ÿ8åÜÏÉ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÚùŞ8ø±ĞÉ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÓÚùŞ8×¬¯ĞÉ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ
+t	java:S127("XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8×¬¯ĞÉ.
+8
+java:S1659""Declare "freq" on a separate line.(Øı¼ÿ
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8×¬¯ĞÉ.
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÆÅ«Õÿÿÿÿÿ

@@ -21,3 +21,7 @@ T
 $src/com/company/arrays/Rotation.java,2/b/2baf894a73e0266538d588515dd2cfb64d2437a9
 U
 %src/com/company/arrays/WaveArray.java,5/d/5d151e994c0764dfc089c84faa369f414711191f
+_
+/src/com/company/arrays/FreqOfLimitedArrEle.java,3/5/35176a61db21d5e0588360a2c55090ef8dfdf571
+\
+,src/com/company/arrays/EquilibriumPoint.java,0/1/014c568742e98316f19a0fa6648b73eeba49b0e7
