@@ -1,11 +1,11 @@
 
-m	java:S127("XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´¯¸©
-k
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
-h
-java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ôÊÅ˜
-@
-java:S1659"%Declare "counter" on a separate line.(ÂÙúóşÿÿÿÿ
 :
 java:S1659"Declare "x" on a separate line.(ÂÙúóşÿÿÿÿ
+@
+java:S1659"%Declare "counter" on a separate line.(ÂÙúóşÿÿÿÿ
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ôÊÅ˜
+m	java:S127("XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(´¯¸©
