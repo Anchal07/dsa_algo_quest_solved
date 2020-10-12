@@ -1,0 +1,13 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(êÆª8ñ°ÒåÉ.
+E
+java:S1659"#Declare "right" on a separate line.(¸»ışÿÿÿÿ8üÀ´åÉ.
+i
+java:S1871#"LThis branch's code block is the same as the block for the branch on line 32.(÷ëıä8®úéåÉ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(êÆª8²ßÕåÉ.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(úïƒİıÿÿÿÿ8Ú¼ÓåÉ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(·‡…­ÿÿÿÿÿ8ÜûÆåÉ.
+A
+java:S1659"Declare "i" on a separate line.(¸»ışÿÿÿÿ8üÀ´åÉ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8ñ°ÒåÉ.
