@@ -1,6 +1,11 @@
 
-@
-java:S1659"#Declare "inner" on a separate line.(‹¿Î®8§ë’üÉ.
-[
-java:S1854"9Remove this useless assignment to local variable "inner".(õñ«üÿÿÿÿ8Ôõ•üÉ.
-y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(é…¦ùÿÿÿÿ8§ë’üÉ.
+?
+java:S1659"#Declare "right" on a separate line.(óÂ¡G8Èî»ìÑ.
+;
+java:S1659"Declare "i" on a separate line.(óÂ¡G8ÕİäìÑ.
+B
+java:S1659"&Declare "tempLeft" on a separate line.(óÂ¡G8ßúÚìÑ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¬ê›…8…íÑ.
+B
+java:S1659"&Declare "rotation" on a separate line.(óÂ¡G8÷³ÅìÑ.

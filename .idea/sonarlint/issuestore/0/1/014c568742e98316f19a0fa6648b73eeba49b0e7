@@ -3,13 +3,13 @@
 java:S1659""Declare "lsum" on a separate line.(œŠãŠ8º©ÈÒÉ.
 o
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(àá½Ü8ãªÉÒÉ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8º©ÈÒÉ.
+t	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8¦ßúÒÉ.
 E
 java:S1659"(Declare "rightCount" on a separate line.(œŠãŠ8º©ÈÒÉ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8º©ÈÒÉ.
 Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8¦ßúÒÉ.
 ?
 java:S1659""Declare "rsum" on a separate line.(œŠãŠ8º©ÈÒÉ.
 B
 java:S1659"%Declare "isFound" on a separate line.(ªÍÁ±8éü°ÓÉ.
 Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÖŞéøÿÿÿÿ8ãªÉÒÉ.
-t	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8¦ßúÒÉ.
