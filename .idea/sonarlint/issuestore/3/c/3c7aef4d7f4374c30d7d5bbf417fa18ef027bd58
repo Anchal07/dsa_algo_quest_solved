@@ -1,0 +1,26 @@
+
+K
+java:S1125")Remove the literal "false" boolean value.(­ı€Şıÿÿÿÿ8¼˜Ì—Ò.
+m
+java:S1764*"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ê•ï´ÿÿÿÿÿ8Ä´Ğ—Ò.
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(À®ù8Ä´Ğ—Ò.
+J
+java:S1125"(Remove the literal "true" boolean value.(­ı€Şıÿÿÿÿ8¼˜Ì—Ò.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ8ä¯ª—Ò.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿ8Ä´Ğ—Ò.
+I
+java:S1659"'Declare "isrotated" on a separate line.(­ı€Şıÿÿÿÿ8¼˜Ì—Ò.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Âçóñıÿÿÿÿ8íÎ—Ò.
+C
+java:S1659"&Declare "oneIndex" on a separate line.(ÍêÀ“8Ø™¯—Ò.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(„ó¬ùıÿÿÿÿ8Ü·‡˜Ò.
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(°²ûÿÿÿÿ8Ü·‡˜Ò.
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8Ü·‡˜Ò.
+8
+java:S3626#"Remove this redundant jump.(ÉŠ©ƒ8Ü·‡˜Ò.
+^
+java:S1854"<Remove this useless assignment to local variable "issorted".(ƒ¶ô²øÿÿÿÿ8Ü·‡˜Ò.

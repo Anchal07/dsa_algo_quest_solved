@@ -31,3 +31,7 @@ a
 0src/com/company/arrays/RearrangeAlternately.java,d/7/d7c4b5ed778e26eaebb22fd2d39ba6d4d33a3ded
 ]
 -src/com/company/arrays/ArrangeArrayInO_1.java,4/1/4122e947b3623a69c9106f90b74f20f0d0c88875
+]
+-src/com/company/arrays/TrappingRainWater.java,8/4/8413e2b6d02b68c6acf5776b6eb4b988e242784b
+a
+1src/com/company/arrays/ArraySortedAndRotated.java,3/c/3c7aef4d7f4374c30d7d5bbf417fa18ef027bd58
