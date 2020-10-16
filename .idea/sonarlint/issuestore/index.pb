@@ -35,3 +35,5 @@ a
 -src/com/company/arrays/TrappingRainWater.java,8/4/8413e2b6d02b68c6acf5776b6eb4b988e242784b
 a
 1src/com/company/arrays/ArraySortedAndRotated.java,3/c/3c7aef4d7f4374c30d7d5bbf417fa18ef027bd58
+o
+?src/com/company/BinarySearch/SearchInSortedAndRotatedArray.java,5/4/545d3dfed0a93dcf19008d8f53e363a69b7ffaa2
