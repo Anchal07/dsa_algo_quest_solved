@@ -37,3 +37,17 @@ a
 1src/com/company/arrays/ArraySortedAndRotated.java,3/c/3c7aef4d7f4374c30d7d5bbf417fa18ef027bd58
 o
 ?src/com/company/BinarySearch/SearchInSortedAndRotatedArray.java,5/4/545d3dfed0a93dcf19008d8f53e363a69b7ffaa2
+d
+4src/com/company/BinarySearch/PeakElementUsingBS.java,f/5/f59e7050bd716639cb6778e714cf7e735563a69b
+d
+4src/com/company/BinarySearch/FloorInSortedArray.java,a/2/a25b5a8a41589931e941ba4d1730a11387e2017d
+j
+:src/com/company/BinarySearch/MiniInSortedRotatedArray.java,e/0/e0e5fb424330a5c80cca886e8dc5b7575d7fc073
+S
+#src/com/company/arrays/RoofTop.java,b/8/b81503af3c972093500872c79be6f6f59f52e184
+_
+/src/com/company/BinarySearch/CountRepeated.java,0/0/000607ff3d3984b2b2dec5f12d6e163efc53f024
+`
+0src/com/company/arrays/CountNByKOccurrences.java,0/d/0ddb27b5f0b2dbc0ab993de0f06a80215083ba47
+h
+8src/com/company/BinarySearch/AllocateMiniNumOfPages.java,d/b/db10d49f313b48793eef7d1d6e12e8f44013eb41
