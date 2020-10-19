@@ -1,0 +1,12 @@
+
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ8£öñ’Ó.
+?
+java:S1659""Declare "high" on a separate line.(Ş‚İÒ8éøõ’Ó.
+>
+java:S1659"!Declare "mid" on a separate line.(Ş‚İÒ8éøõ’Ó.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÎ²Ôúÿÿÿÿ
+?
+java:S1659""Declare "peak" on a separate line.(Ş‚İÒ8øÑö’Ó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…Ş…Ïúÿÿÿÿ8¸“€“Ó.
