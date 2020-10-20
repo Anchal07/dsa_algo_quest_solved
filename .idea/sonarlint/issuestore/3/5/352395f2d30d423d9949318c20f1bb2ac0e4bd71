@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˚Æπ®8—˚–è‘.
+C
+java:S1659
+"&Declare "sumOfAll" on a separate line.(æ©ç®8§Ñ¡è‘.
+A
+java:S1659
+"$Declare "second" on a separate line.(æ©ç®8§Ñ¡è‘.
+>
+java:S1116"Remove this empty statement.(ÙüéÏ˙ˇˇˇˇ8‹˙øè‘.
+@
+java:S1659
+"#Declare "first" on a separate line.(æ©ç®8§Ñ¡è‘.
+>
+java:S1659
+"!Declare "max" on a separate line.(æ©ç®8¶ù’è‘.

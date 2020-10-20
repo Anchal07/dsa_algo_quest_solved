@@ -1,8 +1,2 @@
 
-T
-java:S1128"7Remove this unused import 'com.company.arrays.RoofTop'.(÷ÁşŠ8²Šó»Ó.
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
-e
-java:S1128"CRemove this unused import 'com.company.BinarySearch.CountRepeated'.(—ŒÙéøÿÿÿÿ8ïÆİ¼Ó.
-`
-java:S1128"DRemove this unused import 'com.company.arrays.CountNByKOccurrences'.(–“®8‰³ÛäÓ.
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
