@@ -1,12 +1,12 @@
 package com.company;
 
-import com.company.arrays.SubarrayWithGivenSum;
+import com.company.sorting.IntersectionOf2Arrays;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
         System.out.println("hi");
-        new SubarrayWithGivenSum().indexes();
+        new IntersectionOf2Arrays().intersection();
     }
 }
