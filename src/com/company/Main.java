@@ -1,12 +1,12 @@
 package com.company;
 
-import com.company.sorting.InsertionSort;
+import com.company.sorting.QuickSort;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
         System.out.println("hi");
-        new InsertionSort().sort();
+        new QuickSort().sort();
     }
 }
