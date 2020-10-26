@@ -53,3 +53,11 @@ h
 8src/com/company/BinarySearch/AllocateMiniNumOfPages.java,d/b/db10d49f313b48793eef7d1d6e12e8f44013eb41
 `
 0src/com/company/arrays/SubarrayWithGivenSum.java,3/5/352395f2d30d423d9949318c20f1bb2ac0e4bd71
+\
+,src/com/company/sorting/BubbleSortInO_n.java,5/2/52ce0c5ebe293e0533e655c1079a9d84f654f55f
+Z
+*src/com/company/sorting/InsertionSort.java,a/0/a0e0394305776abd1e686955a9063acba25d5e12
+_
+/src/com/company/sorting/BinaryArraySorting.java,4/f/4fc6259dc649d9ef500b207fcc56deee49f84753
+]
+-src/com/company/sorting/InversionOfArray.java,d/6/d6c459647570fdec826f236f91cf30ccd992226b
