@@ -1,17 +1,22 @@
 
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8ç™²®Ö.
+<
+java:S1659)"Declare "i" on a separate line.(’««™8ß‘Ñ­Ö.
 Z
-java:S1197"8Move the array designator from the variable to the type.(¿ï¶Üøÿÿÿÿ8ÈªÝÕ.
-U
-java:S1197"8Move the array designator from the variable to the type.(Ìý½Š8›ý»ÝÕ.
-V
-java:S1854$"9Remove this useless assignment to local variable "count".(Æåè8ÊˆæÝÕ.
-U
-java:S1197"8Move the array designator from the variable to the type.(®Óá8›ý»ÝÕ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8’Ô²ÝÕ.
-Z
-java:S1197"8Move the array designator from the variable to the type.(ÕÐˆüÿÿÿÿ8âØ«ÝÕ.
-Z
-java:S1197
-"8Move the array designator from the variable to the type.(Ýò»¤ýÿÿÿÿ8€½¦ÝÕ.
+java:S1197"8Move the array designator from the variable to the type.(±¨”¬ùÿÿÿÿ8ç™²®Ö.
 B
-java:S1659" Declare "n2" on a separate line.(™ç£½øÿÿÿÿ8›ý»ÝÕ.
+java:S1659" Declare "n2" on a separate line.(™ç£½øÿÿÿÿ8ç™²®Ö.
+U
+java:S1197"8Move the array designator from the variable to the type.(®Óá8ç™²®Ö.
+<
+java:S1659)"Declare "j" on a separate line.(’««™8ç™²®Ö.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ç­†–þÿÿÿÿ8ç™²®Ö.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ýò»¤ýÿÿÿÿ8ç™²®Ö.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(±¨”¬ùÿÿÿÿ8ç™²®Ö.
+<
+java:S1659)"Declare "k" on a separate line.(’««™8ç™²®Ö.
+U
+java:S1197"8Move the array designator from the variable to the type.(Ìý½Š8›ý»ÝÕ.
