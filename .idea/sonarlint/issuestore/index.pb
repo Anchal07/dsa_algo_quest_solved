@@ -63,3 +63,9 @@ _
 -src/com/company/sorting/InversionOfArray.java,d/6/d6c459647570fdec826f236f91cf30ccd992226b
 Y
 )src/com/company/sorting/Closet0s1s2s.java,1/3/1377a2fb93a7eedf27fe015994cf87c3beac3c3a
+U
+%src/com/company/hashing/Chaining.java,6/0/60b0e23cc0106479576444d6be76f46ef6758d5a
+]
+-src/com/company/hashing/SubarrayWith0Sum.java,b/0/b06f3646103e9844f98c3e72523a4ce14591264a
+a
+1src/com/company/hashing/PositiveNegativePair.java,6/0/60cb56d2183352ba4ec2be370c37631db2416d5d

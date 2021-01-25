@@ -1,6 +1,8 @@
 
-M	java:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
-`
-java:S1128"CRemove this unused import 'com.company.sorting.BinaryArraySorting'.(ğÑœú8”ğİÕ.
-^
-java:S1128"ARemove this unused import 'com.company.sorting.InversionOfArray'.(¬¯¹8õ«ÿ®Ö.
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ó÷îZ
+c
+java:S1128"ARemove this unused import 'com.company.hashing.SubarrayWith0Sum'.(¬Ø•øÿÿÿÿ8¯…–âÛ.
+[
+java:S1128"9Remove this unused import 'com.company.hashing.Chaining'.(ìûŸœıÿÿÿÿ8¯…–âÛ.
+b
+java:S1128"ERemove this unused import 'com.company.hashing.PositiveNegativePair'.(¾Ÿãª8¯…–âÛ.
