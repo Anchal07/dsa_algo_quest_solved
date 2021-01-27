@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.CompanyQuestions.GasStation;
+import com.company.CompanyQuestions.MajorityElement;
 import com.company.trees.Node;
 import com.company.trees.VerticalOrderTraversalOfBinaryTree;
 
@@ -8,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("hi");
-        new VerticalOrderTraversalOfBinaryTree().verticalTraversal(new Main().generateTree());
+        new MajorityElement().majorityElement();
     }
 
     private Node generateTree(){
