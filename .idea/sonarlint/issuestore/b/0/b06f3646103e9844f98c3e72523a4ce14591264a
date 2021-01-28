@@ -1,0 +1,10 @@
+
+R
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(çØ¥ıÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çØ¥ıÿÿÿÿ
