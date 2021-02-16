@@ -1,0 +1,22 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ØÆıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«º•Êşÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò£Šã
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò£Šã
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò£Šã
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¥¶§üÿÿÿÿ
+B
+java:S1128
+",Remove this unused import 'java.util.Queue'.(Äá™ô
+F
+java:S1128	"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(Ò£Šã
+N
+java:S1197"8Move the array designator from the variable to the type.(Ò£Šã
+9
+java:S1659"#Declare "start" on a separate line.(Öš—Ô
+;
+java:S1659"%Declare "prevPet" on a separate line.(Öš—Ô

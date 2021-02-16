@@ -1,0 +1,10 @@
+
+7
+java:S1643"Use a StringBuilder instead.(èÊüÿÿÿÿÿ
+2
+java:S1643#"Use a StringBuilder instead.(Şı€Ğ
+R
+java:S18547"<Remove this useless assignment to local variable "countSeq".(£·Óì
+m
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(àÈ­ûÿÿÿÿ
+>	java:S108T")Either remove or fill this block of code.(šĞúé

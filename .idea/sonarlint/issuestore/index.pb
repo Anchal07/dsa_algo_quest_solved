@@ -69,3 +69,19 @@ U
 -src/com/company/hashing/SubarrayWith0Sum.java,b/0/b06f3646103e9844f98c3e72523a4ce14591264a
 a
 1src/com/company/hashing/PositiveNegativePair.java,6/0/60cb56d2183352ba4ec2be370c37631db2416d5d
+`
+0src/com/company/CompanyQuestions/GasStation.java,b/1/b1e92f65261f5701ccd31eb4b13a3f6bf4702c00
+e
+5src/com/company/CompanyQuestions/MajorityElement.java,4/5/4534ea3171cacef84d772d5fd1e5390ef7a965f5
+l
+<src/com/company/CompanyQuestions/MaximumProductSubArray.java,2/0/209e0734db44c9ca3b9288c7a872b497cb5de9c5
+M
+src/com/company/DemoTask.java,c/d/cd7e2372b3853e5ad383b4056b0d1e75763ac4fd
+N
+src/com/company/EndOfList.java,2/5/25ab1873188776d2d4e6f10488a54515bb49211d
+S
+#src/com/company/NumberPatterns.java,4/b/4bc8c180c8cf42d6c0a54b9fd356b6bdfe440806
+S
+#src/com/company/FindDuplicates.java,3/1/31f81d97f165bf0cc5339ce43c559821a0c13d0a
+P
+ src/com/company/Compression.java,c/8/c8fb5d8824237c65bdd73ccde9477963cf4251a1
