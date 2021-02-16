@@ -2,15 +2,22 @@ package com.company;
 
 import com.company.CompanyQuestions.GasStation;
 import com.company.CompanyQuestions.MajorityElement;
+import com.company.CompanyQuestions.MaximumProductSubArray;
+import com.company.CompanyQuestions.WaysToDecode;
+import com.company.DP.BinomialCoefficient;
+import com.company.DP.CoinChangeProblem;
+import com.company.Recursion.CatalanNumber;
 import com.company.trees.Node;
 import com.company.trees.VerticalOrderTraversalOfBinaryTree;
+
+import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
         System.out.println("hi");
-        new MajorityElement().majorityElement();
+        new CatalanNumber().catalan(" ", 3, 3);
     }
 
     private Node generateTree(){

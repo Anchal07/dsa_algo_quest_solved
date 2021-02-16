@@ -1,0 +1,11 @@
+
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´í
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ØÆıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¥¶§üÿÿÿÿ
+?
+java:S1659!"$Declare "minVal" on a separate line.(ÙË§¹şÿÿÿÿ
+=
+java:S1659!""Declare "prod" on a separate line.(ÙË§¹şÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Èêğšûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ã†ûğıÿÿÿÿ
